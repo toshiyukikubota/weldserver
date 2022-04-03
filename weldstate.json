@@ -2,11 +2,13 @@
 	"resultCount": 2,
 	"results": [
 		{
+			"trackId": 0,
 			"title": "電圧",
 			"val": "32.1",
 			"unit": "V"
 		},
 		{
+			"trackId": 1,
 			"title": "電流",
 			"val": "12.3",
 			"unit": "A"
