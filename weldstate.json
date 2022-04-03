@@ -1,20 +1,15 @@
-
-
-
 {
- "resultCount":38,
- "results": [
-{"fileSizeBytes":175089760, "formattedPrice":"¥3,200", 
-"trackViewUrl":"https://books.apple.com/jp/book/%E8%A9%B3%E7%B4%B0-swiftui-iphone%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-%E5%85%A5%E9%96%80%E3%83%8E%E3%83%BC%E3%83%88-2021-ios-15-xcode-13%E5%AF%BE%E5%BF%9C/id1599797313?uo=4", 
-"artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Publication116/v4/ed/5d/fc/ed5dfc42-7979-1443-73e6-e273f23e1770/28313_124090980_001_001_artwork_20211209125843.jpg/60x60bb.jpg", 
-"artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Publication116/v4/ed/5d/fc/ed5dfc42-7979-1443-73e6-e273f23e1770/28313_124090980_001_001_artwork_20211209125843.jpg/100x100bb.jpg", "artistViewUrl":"https://books.apple.com/jp/artist/%E5%A4%A7%E9%87%8D%E7%BE%8E%E5%B9%B8/1091996654?uo=4", "trackCensoredName":"詳細!SwiftUI iPhoneアプリ開発 入門ノート[2021] iOS 15+Xcode 13対応", "artistIds":[1091996654], "trackId":1599797313, "trackName":"詳細!SwiftUI iPhoneアプリ開発 入門ノート[2021] iOS 15+Xcode 13対応", "releaseDate":"2021-12-10T08:00:00Z", "genreIds":["10023", "38", "9027"], "currency":"JPY", 
-"description":"※この商品は固定レイアウトで作成されており、タブレットなど大きいディスプレイを備えた端末で読むことに適しています。<br/>\nまた、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。<br/>\nお使いの端末で無料サンプルをお試しいただいた上でのご購入をお願いいたします。<br/>\n<br/>\n眠ってる才能を揺り起そう! <br/>\n<br/>\n本書は開発環境のXcodeを使いSwiftUIフレームワークでiPhoneアプリを作るための入門解説書です。Xcodeではライブラリからボタンやテキストなどの部品をドロップするだけでSwiftUIのコードを入力でき、プレビュー表示で簡単にレイアウトを確認したり調整したりできます。ライブプレビューやシミュレータを使えば実機さながらにタッチやスワイプアクションの動作確認も行えます。とは言え、アプリを作りコードに意味をもたせるのはプログラマの仕事です。SwiftUIを理解し語れる人になりましょう<br/>\n<br/>\n・試しながら開発手法を習得する<br/>\n本書では開発環境Xcodeの使い方から、SwiftUIコードの便利な入力補完機能などをステップを追って説明します。ポイントにはマーカーを引き、長いコードも見てすぐわかるように枠囲みや補足説明を付けました。将来役立つ中級者向けの内容には「Level Up」アイコンが付いてます。 iOS 15になって追加変更された新機能にも注目です。<br/>\nChapter 1では簡単なSwiftUIアプリを試しに1個作ります。Xcodeの設定や基礎知識に加えてシミュレータやPlaygroundについても説明します。<br/>\nChapter 2ではテキスト表示のレイアウト調整をもとにSwiftUIの基本を学びます。<br/>\nChapter 3は写真や図形の表示と画像効果へと進みます。<br/>\nChapter 4ではリスト表示やナビゲーションリンクをSwiftUIではどのように行うかを説明します。リンクリストからWebブラウザを開く例も試します。<br/>\nChapter 5はボタン、スイッチ、スライダー、テキストフィールド入力などのUI部品を実装していきます。重要キーワードの@Stateが登場し、条件分岐、オプショナルバリュー、例外処理などコードも本格的になり、学ぶべきSwiftシンタックスも多くなります。<br/>\nChapter 6は確認ダイアログ、シート、スクロールビュー、ダブビューの操作とグリッドレイアウトを取り上げます。複数データの処理もポイントです。<br/>\nChapter 7はバインディングとオブジェクトの共有です。@Binding、@StateObject、@ObservedObject、@EnvironmentObjectの使用例や違いを示します。<br/>\nChapter 8は地図表示です。シミュレータや実機で試してみましょう。<br/>\n最終章のChapter 9 では新機能のAsyncImage、async/awaitを使った非同期処理を解説します。<br/>\n<br/>\n・Swift初心者のための基礎知識入門<br/>\nSwiftUIを使うにしても、プログラミング言語Swiftの基礎力が欠かせません。そこで、各セクションを補完するように「Swiftシンタックスの基礎知識」を設けました。変数、演算子、制御構造、構造体、配列、関数定義、例外処理、オプショナル、クラス、継承など、これだけは知っておきたい内容を図とコードで丁寧に説明しました。コラム形式なので、繰り返し読み返したり、まとめ読みしたりしてもよいでしょ。<br/>\n<br/>\n・ゴールはどこだ! ?<br/>\n新しいツールを手にするとそれだけで希望が湧き、道がひらけた高揚感を覚えます。ここで大切なのはゴールの設定。やり方やルールを変えても目指すゴールが変わらなければ今までと同じこと。どこへ向かうのか、自分のゴールはそこでよいのか。楽しい未来を語らなければ、楽しい未来はやって来ない。眠ってる才能を揺り起こし共に進むのだ! <br/>\n (まえがきより)", "artistId":1091996654, "artistName":"大重美幸", "genres":["プログラミング", "ブック", "コンピュータ／インターネット"], "price":3200.00, "kind":"ebook"} 
-{"fileSizeBytes":140169630, "formattedPrice":"¥2,800", 
-"trackViewUrl":"https://books.apple.com/jp/book/ios-macos-ui%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-swiftui%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/id1534087286?uo=4", 
-"artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4b/88/8e/4b888e4b-adce-885f-6f39-c47757e83580/27955_123202180_001_001_artwork_20201001112242.jpg/60x60bb.jpg", 
-"artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4b/88/8e/4b888e4b-adce-885f-6f39-c47757e83580/27955_123202180_001_001_artwork_20201001112242.jpg/100x100bb.jpg", "artistViewUrl":"https://books.apple.com/jp/artist/%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83/1009308120?uo=4", "trackCensoredName":"iOS/macOS UIフレームワーク SwiftUIプログラミング", "artistIds":[1009308120], "trackId":1534087286, "trackName":"iOS/macOS UIフレームワーク SwiftUIプログラミング", "releaseDate":"2020-05-30T07:00:00Z", "genreIds":["10023", "38", "9027"], "currency":"JPY", 
-"description":"SwiftUIは、Swiftのために設計された、Swiftのための全く新しいUI開発用フレームワークです。従来のフレームワークの知識は役に立たないため、初心者もベテランも同じスタートラインに立つことになります。本書は、SwiftUIの基本からSwift独自のオブジェクト指向まで、188のサンプルプログラムを使いながらハンズオン形式で学ぶ入門書です。文法に不安がある人も、巻末の「Swift基礎文法入門」で復習すれば安心です。", "artistId":1009308120, "artistName":"掌田津耶乃", "genres":["プログラミング", "ブック", "コンピュータ／インターネット"], "price":2800.00, "kind":"ebook"}
-]
+	"resultCount": 2,
+	"results": [
+		{
+			"title": "電圧",
+			"val": "32.1",
+			"unit": "V"
+		},
+		{
+			"title": "電流",
+			"val": "12.3",
+			"unit": "A"
+		}
+	]
 }
-
-
