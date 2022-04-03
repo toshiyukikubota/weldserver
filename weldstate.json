@@ -8,6 +8,12 @@
 			"unit": "V"
 		},
 		{
+			"trackId": 2,
+			"title": "速度",
+			"val": "55.5",
+			"unit": "m/s"
+		},
+		{
 			"trackId": 1,
 			"title": "電流",
 			"val": "12.3",
