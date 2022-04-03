@@ -13,7 +13,7 @@
 "trackViewUrl":"https://books.apple.com/jp/book/ios-macos-ui%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-swiftui%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/id1534087286?uo=4", 
 "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4b/88/8e/4b888e4b-adce-885f-6f39-c47757e83580/27955_123202180_001_001_artwork_20201001112242.jpg/60x60bb.jpg", 
 "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4b/88/8e/4b888e4b-adce-885f-6f39-c47757e83580/27955_123202180_001_001_artwork_20201001112242.jpg/100x100bb.jpg", "artistViewUrl":"https://books.apple.com/jp/artist/%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83/1009308120?uo=4", "trackCensoredName":"iOS/macOS UIフレームワーク SwiftUIプログラミング", "artistIds":[1009308120], "trackId":1534087286, "trackName":"iOS/macOS UIフレームワーク SwiftUIプログラミング", "releaseDate":"2020-05-30T07:00:00Z", "genreIds":["10023", "38", "9027"], "currency":"JPY", 
-"description":"SwiftUIは、Swiftのために設計された、Swiftのための全く新しいUI開発用フレームワークです。従来のフレームワークの知識は役に立たないため、初心者もベテランも同じスタートラインに立つことになります。本書は、SwiftUIの基本からSwift独自のオブジェクト指向まで、188のサンプルプログラムを使いながらハンズオン形式で学ぶ入門書です。文法に不安がある人も、巻末の「Swift基礎文法入門」で復習すれば安心です。", "artistId":1009308120, "artistName":"掌田津耶乃", "genres":["プログラミング", "ブック", "コンピュータ／インターネット"], "price":2800.00, "kind":"ebook"}, 
+"description":"SwiftUIは、Swiftのために設計された、Swiftのための全く新しいUI開発用フレームワークです。従来のフレームワークの知識は役に立たないため、初心者もベテランも同じスタートラインに立つことになります。本書は、SwiftUIの基本からSwift独自のオブジェクト指向まで、188のサンプルプログラムを使いながらハンズオン形式で学ぶ入門書です。文法に不安がある人も、巻末の「Swift基礎文法入門」で復習すれば安心です。", "artistId":1009308120, "artistName":"掌田津耶乃", "genres":["プログラミング", "ブック", "コンピュータ／インターネット"], "price":2800.00, "kind":"ebook"}
 ]
 }
 
