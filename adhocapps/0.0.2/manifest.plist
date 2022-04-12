@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>apw_iphone.ipa</string>
+					<string>https://toshiyukikubota.github.io/weldserver/adhocapps/0.0.2/apw_iphone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>apw_iphone-F008806E-FF93-4D9D-821D-07F9F7E555D9.ipa</string>
+					<string>https://toshiyukikubota.github.io/weldserver/adhocapps/0.0.2/apw_iphone-F008806E-FF93-4D9D-821D-07F9F7E555D9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
