@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apw_watch WatchKit App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64_32</string>
+				<string>armv7k</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0.0.5.1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>08CD5054B12C69B894FF399E2A3453E43DA71B9F</string>
+				<key>dateExpires</key>
+				<string>2023/05/26</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7k</string>
+						<string>arm64_32</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.0.5.1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>08CD5054B12C69B894FF399E2A3453E43DA71B9F</string>
+						<key>dateExpires</key>
+						<string>2023/05/26</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>2A42JHEYM4.jp.yahoo.apw-iphone.watchkitapp.watchkitextension</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>2A42JHEYM4</string>
+						<key>get-task-allow</key>
+						<true/>
+					</dict>
+					<key>name</key>
+					<string>apw_watch WatchKit Extension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>df0a38e3-a5ab-4056-a555-5e858e361d56</string>
+						<key>dateExpires</key>
+						<string>2023/06/16</string>
+						<key>name</key>
+						<string>Developmen apw-iphone extension</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2A42JHEYM4</string>
+						<key>name</key>
+						<string>ASNO System Inc.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.5</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2A42JHEYM4.jp.yahoo.apw-iphone.watchkitapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2A42JHEYM4</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>apw_watch WatchKit App.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cb0438eb-5b34-4153-8f6d-ef37d68e230a</string>
+				<key>dateExpires</key>
+				<string>2023/06/16</string>
+				<key>name</key>
+				<string>Development  jp.yahoo.apw-iphone.watchkitapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2A42JHEYM4</string>
+				<key>name</key>
+				<string>ASNO System Inc.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.0.5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
